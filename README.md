@@ -16,7 +16,7 @@ if __name__ == "__main__":
     me = User(
         name="Denis",
         location="Tbilisi, Georgia",
-        languages=["Python", "JavaScript"],
+        languages=["Python", "JavaScript", "Rust"],
         socials={
             "discord": "Denis_(<->_<->)#7025",
             "guilded": "Denis_(<->_<->)",
